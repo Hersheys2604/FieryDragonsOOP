@@ -1,0 +1,1365 @@
+{
+    "first": {
+        "playerManager": {
+            "harshath": {
+                "data": {
+                    "angle": 0.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": true
+            },
+            "shannon": {
+                "data": {
+                    "angle": 210.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 9,
+                    "player_den": 0,
+                    "isHome": false
+                },
+                "current": false
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    },
+    "second": {
+        "playerManager": {
+            "harshath": {
+                "data": {
+                    "angle": 0.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": false
+            },
+            "shannon": {
+                "data": {
+                    "angle": 30.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 21,
+                    "player_den": 0,
+                    "isHome": false
+                },
+                "current": true
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "True",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "True",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "True",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "True",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    },
+    "third": {
+        "playerManager": {
+            "harshath": {
+                "data": {
+                    "angle": 0.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": true
+            },
+            "shannon": {
+                "data": {
+                    "angle": 345.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 24,
+                    "player_den": 6,
+                    "isHome": false
+                },
+                "current": false
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat",
+                    "Bat",
+                    "Bat",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    },
+    "fourth": {
+        "playerManager": {
+            "harshath": {
+                "data": {
+                    "angle": 0.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": true
+            },
+            "shannon": {
+                "data": {
+                    "angle": 345.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 24,
+                    "player_den": 6,
+                    "isHome": false
+                },
+                "current": false
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    },
+    "fifth": {
+        "playerManager": {
+            "harshath": {
+                "data": {
+                    "angle": 0.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": true
+            },
+            "shannon": {
+                "data": {
+                    "angle": 345.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 24,
+                    "player_den": 6,
+                    "isHome": false
+                },
+                "current": false
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    },
+    "sixth": {
+        "playerManager": {
+            "harshath": {
+                "data": {
+                    "angle": 0.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": true
+            },
+            "shannon": {
+                "data": {
+                    "angle": 210.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 9,
+                    "player_den": 0,
+                    "isHome": false
+                },
+                "current": false
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 0,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 0,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 2,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    },
+    "new": {
+        "playerManager": {
+            "ab": {
+                "data": {
+                    "angle": 45.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenBlue.png",
+                    "player_num": 4,
+                    "player_den": 0,
+                    "isHome": false
+                },
+                "current": true
+            },
+            "cd": {
+                "data": {
+                    "angle": 90.0,
+                    "img_path": "/Users/harshath/Desktop/StartPage.app/Contents/Resources/graphics/playerTokenGreen.png",
+                    "player_num": 0,
+                    "player_den": 0,
+                    "isHome": true
+                },
+                "current": false
+            }
+        },
+        "volcanos": [
+            {
+                "saveList": [
+                    "Salamander",
+                    "Spider",
+                    "Bat"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "BabyDragon",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Salamander",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Salamander",
+                    "BabyDragon",
+                    "Spider"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "Bat",
+                    "Spider",
+                    "BabyDragon"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "Spider",
+                    "Bat",
+                    "Salamander"
+                ],
+                "type": "nonCaveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Bat",
+                    "Spider"
+                ],
+                "caveCutTileIndex": 1,
+                "type": "caveCut"
+            },
+            {
+                "saveList": [
+                    "BabyDragon",
+                    "Salamander",
+                    "Bat"
+                ],
+                "type": "nonCaveCut"
+            }
+        ],
+        "chitCards": [
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Bat",
+                "True",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Salamander",
+                "True",
+                "CHITCARD_2"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Spider",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_1"
+            ],
+            [
+                "Pirate Dragon",
+                "False",
+                "REGRESSIVE_2"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Salamander",
+                "False",
+                "CHITCARD_3"
+            ],
+            [
+                "Bat",
+                "False",
+                "CHITCARD_1"
+            ],
+            [
+                "BabyDragon",
+                "False",
+                "CHITCARD_2"
+            ],
+            [
+                "Car",
+                "False",
+                "REGRESSIVE_TRANSPORT"
+            ]
+        ],
+        "caves": [
+            "Salamander",
+            "BabyDragon",
+            "Spider",
+            "Bat"
+        ]
+    }
+}
